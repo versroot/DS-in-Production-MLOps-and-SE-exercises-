@@ -1,0 +1,6 @@
+outs:
+- md5: 2f88239dc9cc390a9e05a0a5a567577d
+  size: 512353
+  isexec: true
+  hash: md5
+  path: coco_small.jpg
