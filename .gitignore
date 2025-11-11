@@ -1,0 +1,20 @@
+# Compiled binaries
+github-file-search
+temp-converter
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go module cache
+root/
+
+# Temporary files
+*.swp
+*.swo
+*~
