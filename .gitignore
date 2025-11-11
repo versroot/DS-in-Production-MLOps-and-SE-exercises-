@@ -11,6 +11,9 @@ temp-converter
 *.test
 *.out
 
+# Go module cache
+root/
+
 # Temporary files
 *.swp
 *.swo
