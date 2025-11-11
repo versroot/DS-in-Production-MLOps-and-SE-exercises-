@@ -1,0 +1,17 @@
+# Compiled binaries
+github-file-search
+temp-converter
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Temporary files
+*.swp
+*.swo
+*~
